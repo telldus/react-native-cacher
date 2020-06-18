@@ -16,6 +16,9 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/clcorpdevelopment/react-native-casher#readme",
   "dependencies": {
-    "mock-async-storage": "^1.0.3"
+    "@react-native-community/async-storage": "^1.11.0",
+    "mock-async-storage": "^1.0.3",
+    "react": "16.11.0",
+    "react-native": "0.62.2"
   }
 }
