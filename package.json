@@ -1,5 +1,5 @@
 {
-  "name": "react-native-casher",
+  "name": "react-native-cacher",
   "version": "1.0.0",
   "description": "clcasher",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/clcorpdevelopment/react-native-casher.git"
+    "url": "https://github.com/telldus/react-native-casher.git"
   },
   "keywords": [
     "Cacher"
   ],
   "author": "Clcorp",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/clcorpdevelopment/react-native-casher#readme",
+  "homepage": "https://github.com/telldus/react-native-casher.git#readme",
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
     "mock-async-storage": "^1.0.3",
