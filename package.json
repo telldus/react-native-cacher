@@ -17,7 +17,7 @@
   "homepage": "https://github.com/telldus/react-native-casher.git#readme",
   "dependencies": {},
   "devDependencies": {
-    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/async-storage": "^1.12.1",
     "mock-async-storage": "^2.2.0",
     "react": "^16.13.1",
     "react-native": "^0.63.3"
